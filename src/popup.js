@@ -4,11 +4,11 @@ import './App.css'
 const Popup=(p)=>{
     return(
        <div>
-         <div className="bg1">
+         <div>
             {p.content}
           </div>
 
-            <div onClick={p.handleClose}>x</div>
+            <div onClick={p.handleClose} className="close">x</div>
         </div>
     )
 }

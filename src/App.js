@@ -35,7 +35,6 @@ function App() {
     <div>
       <div className="bg1" ></div>
        <div className="bg2">
-
          </div>
          </div>
      }

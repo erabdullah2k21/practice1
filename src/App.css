@@ -20,3 +20,7 @@
   left: 0;
   top: 70px;
 }
+.close{
+  position: relative;
+  left: 220px;
+}
